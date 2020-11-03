@@ -1,0 +1,18 @@
+::selection {
+  color: red;
+  background: yellow;
+}
+*{
+  overflow-x: hidden;
+}
+.root {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  padding: 2rem;
+  background-color: aqua;
+  color: #000;
+}
+/*# sourceMappingURL=main.css.map */
